@@ -21,7 +21,7 @@ print("Lista " + str(lista))
 
 # Métodos
 
-alista_invertida = lista
-alista_invertida.reverse()
-print(alista_invertida)
-print("Lista Invertida " + str(alista_invertida))
+lista_invertida = lista
+lista_invertida.reverse()
+print(lista_invertida)
+print("Lista Invertida " + str(lista_invertida))
