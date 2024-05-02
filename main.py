@@ -16,13 +16,12 @@ print("Nova idade " , nova_idade)
 
 
 # Listas
-lista = ["a","b","c","d","e","f"] #1,2,3,4,5 ] - tentei assim e não foi também
+lista = ["a","b","c","d","e","f"] #1,2,3,4,5 ]
 print("Lista " + str(lista))
 
 # Métodos
 
-lista_invertida = lista
-lista_invertida.reverse()
-print(lista_invertida)
-print("Lista Invertida " + str(lista_invertida))
-# Não está funcionando e não sei porque
+alista_invertida = lista
+alista_invertida.reverse()
+print(alista_invertida)
+print("Lista Invertida " + str(alista_invertida))
